@@ -263,6 +263,7 @@
                         </configuration>
                     </plugin>
                 </plugins>
+		<finalName>java-jenkins-docker</finalName>
             </build>
         </profile>
     </profiles>
